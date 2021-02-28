@@ -41,8 +41,8 @@ Loan_Status (Target): Loan approved (Y/N)
 ## [Data Preprocessing](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/DataPreprocessing.ipynb)
 
 ## ML Models
-    1. [Logistic Regression](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/LogisticRegression.ipynb)
-    2. [Random Forest](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/RandomForest.ipynb)
-    3. [XGBoost](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/XGBoost.ipynb)
+    [Logistic Regression](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/LogisticRegression.ipynb)
+    [Random Forest](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/RandomForest.ipynb)
+    [XGBoost](https://github.com/pawaderahul/Loan-Approval-Prediction/blob/main/XGBoost.ipynb)
 
 
